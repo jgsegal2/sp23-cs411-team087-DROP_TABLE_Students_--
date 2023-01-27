@@ -1,4 +1,4 @@
-# team000-sample
+# team084-Drop_Table_Students
 
 ## Basic Information
 
@@ -9,7 +9,7 @@
 | Captain     | Abdu is our captain at heart |
 | Captain     | legend@illinois.edu          |
 | Member1     | Deevya Swain                 |
-| Member3     | deevyas2@illinois.edu        |
+| Member1     | deevyas2@illinois.edu        |
 | Member2     | Jamie Gleason                |
 | Member2     | jaimecg2@illinois.edu        |
 | Member3     | Jason George Segal           |
