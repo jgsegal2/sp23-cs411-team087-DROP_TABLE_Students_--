@@ -8,12 +8,12 @@
 | TeamName    | DROP TABLE Students; --      |
 | Captain     | Abdu is our captain at heart |
 | Captain     | legend@illinois.edu          |
-| Member1     | Jamie Gleason                |
-| Member1     | jaimecg2@illinois.edu        |
-| Member2     | Jason George Segal           |
-| Member2     | jgsegal2@illinois.edu        |
-| Member3     | Deevya Swain                 |
+| Member1     | Deevya Swain                 |
 | Member3     | deevyas2@illinois.edu        |
+| Member2     | Jamie Gleason                |
+| Member2     | jaimecg2@illinois.edu        |
+| Member3     | Jason George Segal           |
+| Member3     | jgsegal2@illinois.edu        |
 | Member4     | Jongwon Park                 |
 | Member4     | jwp6@illinois.edu            |
 
